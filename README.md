@@ -1,1 +1,1 @@
-This is a simple Responsive Website
+# Simple Responsive Website
